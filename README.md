@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<!--
-**Akash051004/Akash051004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...# 💫 About Me:
+# 💫 About Me:
 I am currently pursuing my undergraduate in btech in cse <br>i am a AI/ML engineer<br>Currently studying LLM
 
 
