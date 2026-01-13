@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently pursuing my undergraduate in btech in cse<br>iI am a AI/ML enginee
+I am currently pursuing my undergraduate in btech in cse<br>I am a AI/ML enginee
 
 
 ## 🌐 Socials:
